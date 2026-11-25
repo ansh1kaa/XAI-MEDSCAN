@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "batch_size": 16,
+  "initial_epochs": 5,
+  "fine_tune_epochs": 3,
+  "initial_learning_rate": 0.0001,
+  "fine_tune_learning_rate": 0.00001,
+  "fine_tune_last_n_layers": 30,
+  "dropout_rate": 0.35,
+  "classification_threshold": 0.5,
+  "low_confidence_threshold": 0.7
+}
+
